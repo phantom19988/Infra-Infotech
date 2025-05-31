@@ -72,10 +72,12 @@ a {
 .hero h2 {
   font-size: 3rem;
   margin-bottom: 1rem;
+  text-shadow: 2px 2px 5px white;
 }
 .hero p {
   font-size: 1.25rem;
   margin-bottom: 2rem;
+   text-shadow: 2px 2px 5px white;
 }
 .cta-btn {
   background: white;
